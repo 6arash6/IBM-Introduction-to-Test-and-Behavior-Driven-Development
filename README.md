@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# IBM---Introduction-to-Test-and-Behavior-Driven-Development
-=======
 # TDD / BDD Practice Code
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
