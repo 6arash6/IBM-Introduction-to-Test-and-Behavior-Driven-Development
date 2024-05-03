@@ -65,3 +65,4 @@ Then exit that terminal and open a new one to activate the virtual environment.
 [John Rofrano](https://www.linkedin.com/in/JohnRofrano/), Senior Technical Staff Member, DevOps Champion, @ IBM Research
 
 ## <h3 align="center"> © IBM Corporation 2022, 2023. All rights reserved. <h3/>
+>>>>>>> master
